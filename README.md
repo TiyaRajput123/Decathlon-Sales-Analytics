@@ -230,14 +230,7 @@ Designed and developed a fully interactive retail sales dashboard using Microsof
 - Data Visualization
 - Retail Analytics
 
----
 
-# 📬 Connect With Me
-
-**Tiya Rajput**
-
-- 💼 LinkedIn: *(Add Your LinkedIn URL)*
-- 💻 GitHub: https://github.com/TiyaRajput123
 
 ---
 
